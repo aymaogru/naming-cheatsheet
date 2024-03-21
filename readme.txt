@@ -1,3 +1,3 @@
 new first commit
 new second commit
-third commit
+new third commit
